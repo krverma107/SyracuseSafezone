@@ -26,5 +26,6 @@ We learned more about python libraries and how they tremendously increase the ca
 
 We have planned on adding more features like:
 -Add a user-input feature where the user is able to input their address and mile radius within which they would like to see crime and fire data.
--Long-term goal: to add more data such as natural calamities in the area, weather hazards, water quality, access to hospitals, and educational institutions.
+-Long-term goal: to add more data such as natural calamities in the area, weather hazards, water quality, access to hospitals, and educational institutions. 
+-We also plan to expand beyond the Syracuse area by letting users enter their zip codes and accessing relevant data for the given mile radius.
 
