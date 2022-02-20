@@ -9,7 +9,7 @@ Our inspiration was to create a project that helps anyone looking to buy a prope
 It uses the Syracuse OpenData API to get crime rate and police data to generate a map of the Syracuse area with the past criminal offenses and fire incidents as blue and red dots respectively.
 
 ## How we built it
-We built it using the Syracuse OpenData API and integrated that into our python code. We used python libraries like folium, json, pandas, requests.API to generate our maps and create the json files to work with data in a tabular form. We then used the address attribute from the data and converted it into tuples of (latitude, longitude) values using Nominatim from the python geopy library. 
+We built it using the Syracuse OpenData API and integrated that into our python code on Google collaboraroty. We used python libraries like folium, json, pandas, requests.API to generate our maps and create the json files to work with data in a tabular form. We then used the address attribute from the data and converted it into tuples of (latitude, longitude) values using Nominatim from the python geopy library. 
 
 ## Challenges we ran into
 
