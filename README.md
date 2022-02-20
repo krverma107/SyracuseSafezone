@@ -1,6 +1,6 @@
 ## What we are trying to create:
 
-Our team’s plan is to create a website using Syracuse’s Open Data API to generate an interactive map that displays the crimes and fires in the Syracuse area. 
+Our team’s plan is to create an application using Syracuse’s Open Data API to generate an interactive map that displays the crimes and fires in the Syracuse area. 
 
 ## Inspiration
 Our inspiration was to create a project that helps anyone looking to buy a property in the Syracuse area find the safest areas to live.
