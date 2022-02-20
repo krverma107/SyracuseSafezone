@@ -1,4 +1,4 @@
-**What we are trying to create:**
+##What we are trying to create:##
 
 Our team’s plan is to create a website using Syracuse’s Open Data. This website will contain an interactive map that displays the crimes and fires in the Syracuse area. 
 
@@ -6,7 +6,7 @@ Our team’s plan is to create a website using Syracuse’s Open Data. This webs
 Our inspiration was to create a project that helps anyone looking to buy a property in the Syracuse area find the safest areas to live.
 
 ## What it does
-It uses the Syracuse OpenData API to generate a map of the Syracuse area with the past criminal offenses and fire incidents as red and blue dots.
+It uses the Syracuse OpenData API to get crime rate and police data to generate a map of the Syracuse area with the past criminal offenses and fire incidents as red and blue dots.
 
 ## How we built it
 We built it using the Syracuse OpenData API and integrated that into our python code. We used python libraries like folium, json, pandas, requests.API to generate our maps and create the json files to work with data in a tabular form. We then used the address attribute from the data and converted it into tuples of (latitude, longitude) values using Nominatim from the python geopy library. 
