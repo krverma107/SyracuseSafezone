@@ -1,4 +1,4 @@
-##What we are trying to create:##
+## What we are trying to create:##
 
 Our team’s plan is to create a website using Syracuse’s Open Data. This website will contain an interactive map that displays the crimes and fires in the Syracuse area. 
 
